@@ -1,1 +1,2 @@
-# docker-alura
+# alura-docker
+Projeto do curso de Docker
