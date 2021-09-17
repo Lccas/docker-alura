@@ -16,13 +16,13 @@ Após finalizar a build, ja podemos iniciar o projeto localmente, para isso é n
 docker compose up
 ```
 
-Depois de subir ele com o docker compose up, ja podemos acessar o projeto, como foi definido no docker-compose.yml, ele irá rodar na porta ":80".
+Depois de subir ele com o docker compose up, já podemos acessar o projeto, como foi definido no docker-compose.yml, ele irá rodar na porta ":80".
 Assim que você entrar no link:
 ```bash
 localhost:80
 ```
 
-você irá perceber que é só uma tela branca com bordas pretas, para popular o site com as informações do banco,
+Você irá perceber que é só uma tela branca com bordas pretas, para popular o site com as informações do banco,
 é necessário entrar neste link:
 ```bash
 localhost/seed
